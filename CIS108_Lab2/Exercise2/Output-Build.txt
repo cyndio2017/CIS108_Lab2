@@ -1,0 +1,13 @@
+﻿1>------ Rebuild All started: Project: CIS108_Lab2, Configuration: Debug Win32 ------
+2>------ Rebuild All started: Project: Exercise1, Configuration: Debug Win32 ------
+3>------ Rebuild All started: Project: Exercise2, Configuration: Debug Win32 ------
+1>pch.cpp
+2>pch.cpp
+3>pch.cpp
+2>Exercise1.cpp
+3>Exercise2.cpp
+1>CIS108_Lab2.cpp
+2>Exercise1.vcxproj -> C:\Users\Sparky\source\repos\CIS108_Lab2\Debug\Exercise1.exe
+1>CIS108_Lab2.vcxproj -> C:\Users\Sparky\source\repos\CIS108_Lab2\Debug\CIS108_Lab2.exe
+3>Exercise2.vcxproj -> C:\Users\Sparky\source\repos\CIS108_Lab2\Debug\Exercise2.exe
+========== Rebuild All: 3 succeeded, 0 failed, 0 skipped ==========
